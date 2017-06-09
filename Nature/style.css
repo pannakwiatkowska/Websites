@@ -13,7 +13,7 @@
 }
 
 .navi{
-	background-color:black;
+	background-color:#1C1C4E;
 	overflow:hidden;
 	margin-top:0px;
 	
@@ -30,7 +30,7 @@
 }
 
 .navi a:hover{
-	color:blue;
+	color:#5F5FCA;
 }
 
 #imageheader{
@@ -44,18 +44,24 @@
 
 
 body{
-	background-color:#ffffcc;
+	background-color:#CFCFE9;
+	height:1000px;
 }
 
-#site{
+.site{
 	display:inline;
-	height:900px;
 }
+
+
 
 #tekst{
 	width:75%;
 	float:left;
 	
+}
+
+#p1{
+	padding:20px;
 }
 
 .sidebar{
@@ -66,7 +72,7 @@ body{
 	width:20%;
 	float:left;
 	padding-left:15px;
-	background-color:black;
+	background-color:#1C1C4E;
 	margin-left:40px;
 	border-radius:5%;
 
