@@ -1,0 +1,62 @@
+.center{
+	text-align:center;
+	margin:0 auto;
+	max-width:1600px;
+	position: relative;
+	padding:30px;
+}
+
+
+.bgdimage{
+	border-radius:5%;
+}
+
+.site{
+	width:450px;
+	height:480px;
+	position:absolute;
+	background-color:black;
+	border-radius:5%;
+	right:120px;
+	top:200px;
+	color:white;
+}
+
+p{
+	padding:5%;
+}
+
+body{
+	background-color:black;
+}
+
+.navi{
+	background-color:black;
+	overflow:hidden;
+	margin-top:0px;
+}
+
+#menu{
+	position:absolute;
+	top:30px;
+	background-color:black;
+	
+}
+
+.navi a{
+	display:inline;
+	padding-left:30px;
+	padding-right:30px;
+	font-size:30px;
+	color:white;
+	text-decoration:none;
+}
+
+.navi a:hover{
+	color:#5F5FCA;
+}
+
+.navi a:active{
+	color:black;
+	background-color:#5F5FCA;
+}
