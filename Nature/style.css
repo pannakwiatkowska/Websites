@@ -1,0 +1,75 @@
+.center{
+	text-align:center;
+	marigin: 0 auto;
+}
+
+.top{
+	position:relative;
+}
+
+#menu{
+	position:absolute;
+	top:50px;
+}
+
+.navi{
+	background-color:black;
+	overflow:hidden;
+	margin-top:0px;
+	
+}
+
+.navi a{
+	display:inline;
+	padding-left:30px;
+	padding-right:30px;
+	font-size:30px;
+	color:white;
+	text-decoration:none;
+	
+}
+
+.navi a:hover{
+	color:blue;
+}
+
+#imageheader{
+	margin-bottom:0px;
+	border-radius:5%;
+}
+
+#butterfly{
+	border-radius:50%;
+}
+
+
+body{
+	background-color:#ffffcc;
+}
+
+#site{
+	display:inline;
+	height:900px;
+}
+
+#tekst{
+	width:75%;
+	float:left;
+	
+}
+
+.sidebar{
+	color:white;
+}
+
+#about{
+	width:20%;
+	float:left;
+	padding-left:15px;
+	background-color:black;
+	margin-left:40px;
+	border-radius:5%;
+
+h1{
+	font-size:20px;
+}
